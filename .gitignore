@@ -1,0 +1,104 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders for Rider
+.idea/
+
+# Visual Studio 2019 auto-generated files
+.vscode/
+.vs/
+*.dbmdl
+*.mdf
+*.ldf
+*.ndb
+*.ndf
+*.rdl.data
+*.rdl.data.cache
+*.rdlc.data
+*.ssdl.cache
+*.ssdl.diag
+*.unsuccessfulbuild
+
+# Visual Studio Code
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# JetBrains Rider
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
+.idea/**/workspace.xml
+
+# Files built by Visual Studio
+*.appx
+*.appxbundle
+*.appxupload
+*.appxupload/.upload
+*.appxrecipes
+*.vsix
+*.vsixlangpack
+*.vsixmanifest
+*.vsmanproj
+*.pkgdef
+*.tdl
+*.ipch
+*.tmp_proj
+*.tmp
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Service
+*.install.log
+*.InstallState
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCop.Cache
+
+# WPF
+*.g.*
+*.i.*
+
+# Deployment
+*.ClickOnce/
+
+# Packaging
+*.nupkg
+*.snupkg
+*.nuspec
+.packages/
